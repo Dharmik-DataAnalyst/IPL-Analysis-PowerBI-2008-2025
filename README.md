@@ -1,6 +1,6 @@
 # 🏏 IPL Analysis Dashboard (2008-2025)
 
-![Banner](Images/BANNER.png)
+![IPL Dashboard Banner](BANNER.png)
 
 ## Project Overview
 
