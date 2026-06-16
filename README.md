@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project is an interactive Power BI dashboard that analyzes IPL seasons from 2008 to 2025.The dashboard enables season-wise exploration of team performance, player statistics, championship history, and key tournament trends through interactive visualizations and DAX-driven insights.
+This project is an interactive Power BI dashboard that analyzes IPL seasons from 2008 to 2025. The dashboard enables season-wise exploration of team performance, player statistics, championship history, and key tournament trends through interactive visualizations and DAX-driven insights.
 
 The dashboard provides insights into:
 
@@ -41,7 +41,7 @@ The dashboard provides insights into:
 
 ## Skills Demonstrated
 
-* Advanced DAX (CALCULATE, FILTER, SUMMARIZE, VAR, RANKX)
+* Advanced DAX (CALCULATE, FILTER, SUMMARIZE, VAR)
 * Data Modeling and Relationship Management
 * Power Query Data Transformation
 * KPI and Metric Development
@@ -49,6 +49,20 @@ The dashboard provides insights into:
 * Sports Analytics and Data Storytelling
 * Performance Optimization
 
+---
+
+## DAX Concepts Used
+
+- CALCULATE
+- FILTER
+- SUMMARIZE
+- VAR
+- RANKX
+- TOPN
+- ALL
+- SELECTEDVALUE
+- CALCULATETABLE
+- EARLIER
 
 ---
 
@@ -74,11 +88,11 @@ The dashboard provides insights into:
 
 ## Key Metrics
 
-- 18 IPL Seasons
+- 18 IPL Seasons Analyzed
 - 1000+ Matches
-- 10+ Teams
-- Dynamic Season Analysis
-- Interactive Filters
+- 10 Teams
+- 250+ Players
+- Dynamic Season Filtering
 
 ---
 
