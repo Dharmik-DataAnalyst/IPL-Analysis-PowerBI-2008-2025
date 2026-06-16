@@ -56,19 +56,19 @@ The dashboard provides insights into:
 
 ### IPL 2025
 
-![Dashboard](Images/Dashboard_2025.png)
+![IPL 2025 Dashboard](Dashboard_2025.png)
 
 ### IPL 2024
 
-![Dashboard](Images/Dashboard_2024.png)
+![IPL 2024 Dashboard](Dashboard_2024.png)
 
 ### IPL 2015
 
-![Dashboard](Images/Dashboard_2015.png)
+![IPL 2015 Dashboard](Dashboard_2015.png)
 
 ### IPL 2010
 
-![Dashboard](Images/Dashboard_2010.png)
+![IPL 2010 Dashboard](Dashboard_2010.png)
 
 ---
 
